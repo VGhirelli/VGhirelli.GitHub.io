@@ -4,6 +4,7 @@
 
   * Impostare tag lingua corretto
   * Collegare ogni singola pagina con la relativa versione tradotta (localizzazione)
+  * Strutturare i dati
 
 ### Correzioni di sviluppo
 
@@ -15,9 +16,15 @@
 
 ### Terminare
 
+## v0.5.0 / 2017-04-29
+
+  * Abilitazione Gestione DNS
+  * Creazione [ChangeLog](/index.md)
+  * Generazione ed Installazione Certificato [SSL](https://www.VittorioGhirelli.it)
+
 ```
 ...
-(Modifiche non documentate)
+(Modifiche e sviluppi non documentati)
 ...
 ```
 
