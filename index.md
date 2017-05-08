@@ -19,8 +19,8 @@
   * Backup database
   * Eseguita migrazione database a causa dell'accesso limitato in sola lettura
   * Eseguito password recovery amministratore
-  * Aggiornati plugin:
-    * Antispam [Akismet](https://akismet.com)
+  * Aggiornati 5 plugin
+  * Aggiornato Antispam [Akismet](https://akismet.com) da v3.0.2 a v3.3.1
 
 ## v0.5.0 / 2017-04-29
 
