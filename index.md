@@ -12,9 +12,15 @@
 
 ### Miglioramenti minori
 
-  * Aggiungere favicon.ico
-
 ### Terminare
+
+## v0.5.1 / 2017-05-08
+
+  * Backup database
+  * Eseguita migrazione database a causa dell'accesso limitato in sola lettura
+  * Eseguito password recovery amministratore
+  * Aggiornati plugin:
+    * Antispam [Akismet](https://akismet.com)
 
 ## v0.5.0 / 2017-04-29
 
