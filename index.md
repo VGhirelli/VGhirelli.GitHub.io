@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# ChangeLog
 
-You can use the [editor on GitHub](https://github.com/VGhirelli/VGhirelli.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Correzioni di bug
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  * Impostare tag lingua corretto
+  * Collegare ogni singola pagina con la relativa versione tradotta (localizzazione)
 
-### Markdown
+### Correzioni di sviluppo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Miglioramenti del sito
 
-```markdown
-Syntax highlighted code block
+### Miglioramenti minori
 
-# Header 1
-## Header 2
-### Header 3
+  * Aggiungere favicon.ico
 
-- Bulleted
-- List
+### Terminare
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+...
+(Modifiche non documentate)
+...
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## v0.2.0 / 2013-10-01
 
-### Jekyll Themes
+  * Registrazione 2° dominio [VittorioGhirelli.com](http://www.VittorioGhirelli.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VGhirelli/VGhirelli.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## v0.1.0 / 2012-04-20
 
-### Support or Contact
+  * Registrazione 1° dominio [VittorioGhirelli.it](https://www.VittorioGhirelli.it)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## v0.0.0 / 1994-05-09
+
+  * Nasce [Vittorio Ghirelli](https://it.wikipedia.org/wiki/Vittorio_Ghirelli)
